@@ -1,1 +1,1 @@
-echo "hello jenkins second hook"
+echo "hello jenkins hook hook"
